@@ -5,13 +5,13 @@ import * as React from "react"
 // markup
 const IndexPage = () => {
   return (
-    <main style={pageStyles}>
+    <main>
       <title>Home Page</title>
-
+    ff 
       <h1>Hello world</h1>
-
-          </main>
-  )
+booo
+          </main>   
+  )  
 }
 
 export default IndexPage
