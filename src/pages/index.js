@@ -1,16 +1,14 @@
 import * as React from "react"
-
+import {Link} from "gatsby"
+import Layout from "../components/Layout"
 // styles
 
 // markup
 const IndexPage = () => {
   return (
-    <main>
-      <title>Home Page</title>
-    ff 
-      <h1>Hello world</h1>
-booo
-          </main>   
+    <Layout page_title="My Gatsby Site">
+      <p>I'm making this by following the Gatsby tutorial.</p> 
+    </Layout>    
   )  
 }
 
